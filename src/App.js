@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       react and typescript to do app with local storage, tailwind css last day
-      of joking around
+      of joking around. there needs to be a change
     </div>
   );
 }
